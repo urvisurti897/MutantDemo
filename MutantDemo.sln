@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutantDemo", "MutantDemo.csproj", "{886B75D9-0ABB-4897-A911-6130B39C5C28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsoscelesTest", "..\IsoscelesTest\IsoscelesTest.csproj", "{665A3AF7-9382-4799-A2D5-0CC67D120108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{886B75D9-0ABB-4897-A911-6130B39C5C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886B75D9-0ABB-4897-A911-6130B39C5C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886B75D9-0ABB-4897-A911-6130B39C5C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886B75D9-0ABB-4897-A911-6130B39C5C28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{665A3AF7-9382-4799-A2D5-0CC67D120108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{665A3AF7-9382-4799-A2D5-0CC67D120108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{665A3AF7-9382-4799-A2D5-0CC67D120108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{665A3AF7-9382-4799-A2D5-0CC67D120108}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
